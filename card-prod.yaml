@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 card:
-  message: "Welcome to Bank card related Prod APIs "
+  message: "Welcome to Bank card related Production APIs "
   contactDetails:
     name: "Trung hiep - Product Owner"
     email: "phamtrunghiep1201@gmail.com"
