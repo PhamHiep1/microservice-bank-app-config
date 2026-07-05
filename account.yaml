@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Welcome to Bank account related local APIs "
+  message: "Welcome to Bank account related docker APIs "
   contactDetails:
     name: "Trung hiep - Developer"
     email: "phamtrunghiep1201@gmail.com"
