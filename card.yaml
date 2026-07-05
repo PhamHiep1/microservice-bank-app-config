@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 card:
-  message: "Welcome to Bank card related local APIs "
+  message: "Welcome to Bank card related docker APIs "
   contactDetails:
     name: "Trung hiep - Developer"
     email: "phamtrunghiep1201@gmail.com"
