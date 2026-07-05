@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Welcome to Bank account related Production3 APIs "
+  message: "Welcome to Bank account related Production4 APIs "
   contactDetails:
     name: "Trung hiep1 - Product Owner"
     email: "phamtrunghiep1201@gmail.com"
